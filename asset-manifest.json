@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/campaign-tracker/static/css/main.e9dd20c7.css",
-    "main.js": "/campaign-tracker/static/js/main.029d4c36.js",
+    "main.js": "/campaign-tracker/static/js/main.f24ad525.js",
     "static/js/453.d7446e4a.chunk.js": "/campaign-tracker/static/js/453.d7446e4a.chunk.js",
     "index.html": "/campaign-tracker/index.html",
     "main.e9dd20c7.css.map": "/campaign-tracker/static/css/main.e9dd20c7.css.map",
-    "main.029d4c36.js.map": "/campaign-tracker/static/js/main.029d4c36.js.map",
+    "main.f24ad525.js.map": "/campaign-tracker/static/js/main.f24ad525.js.map",
     "453.d7446e4a.chunk.js.map": "/campaign-tracker/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9dd20c7.css",
-    "static/js/main.029d4c36.js"
+    "static/js/main.f24ad525.js"
   ]
 }
